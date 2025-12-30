@@ -1,0 +1,4 @@
+iso/*.iso
+tftp/*.efi
+tftp/initrd
+tftp/vmlinuz
